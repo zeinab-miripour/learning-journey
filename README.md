@@ -22,6 +22,7 @@ Key Takeaway
 Today I learned that Git is much more than a tool for storing code. It is a version control system designed to track changes, make development safer, simplify collaboration, and allow developers to experiment with confidence without worrying about losing their work.
 
 ---
+
 📅 Day 2 
 
 📘 Git Learning Journey – Session 2
