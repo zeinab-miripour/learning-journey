@@ -51,5 +51,24 @@ Basic Terminal Commands
 Key Takeaway
 
 Git gives me full control over my project's history. I decide what to track, stage, and commit, making it easier to manage changes, collaborate, and safely return to previous versions whenever needed.
+------------------------------------------
 
+📅 Day 3 – Git
+
+Today, I deepened my understanding of Git branching, merging, and Git installation.
+What I Learned
+Reviewed Git fundamentals, including repositories, staging, and commits.
+Learned how branches allow developers to work independently without affecting the main project.
+Practiced creating, switching, and deleting branches.
+Learned how git merge integrates changes from one branch into another.
+Understood what a Merge Conflict is, why it happens, and how to resolve it manually.
+Learned additional Git commands:
+git diff
+git restore
+git reset
+git stash
+.gitignore
+Studied the Git installation process, including the purpose of the main installation options and which settings are recommended for development.
+Key Takeaway
+Today I learned that branches make collaboration safer and more organized. I also understood that merge conflicts must be resolved by the developer, and I became familiar with the recommended Git installation settings for a professional development environment.
 More updates coming soon... 🚀
