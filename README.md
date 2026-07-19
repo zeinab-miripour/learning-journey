@@ -853,5 +853,25 @@ fatal: adding files failed
 
 JEI@DESKTOP-79F36FF MINGW64 ~/Desktop/new/new (newbb)
 $
+---------------------
 
+Day 4 – Git Practice
+
+Today I focused on hands-on Git practice and reviewing the concepts I learned.
+
+During this session, I:
+
+- Created multiple practice repositories.
+- Initialized Git repositories with "git init".
+- Added, modified, and deleted files.
+- Practiced staging and committing changes.
+- Converted existing folders into Git repositories and removed Git from them when needed.
+- Used Git commands to better understand the relationship between the working directory, the staging area, and commits.
+
+To reinforce what I learned, I also reviewed Git concepts using two learning apps:
+
+- Git in Practice
+- Learn Git and GitHub
+
+Today's practice helped me strengthen my understanding of Git fundamentals and become more confident using Git from the command line.
 More updates coming soon... 🚀
