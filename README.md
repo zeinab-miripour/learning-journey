@@ -874,4 +874,17 @@ To reinforce what I learned, I also reviewed Git concepts using two learning app
 - Learn Git and GitHub
 
 Today's practice helped me strengthen my understanding of Git fundamentals and become more confident using Git from the command line.
+
+
+----
+Day 5 – Practical Git Practice
+
+Today's Activities
+- Practiced Git commands in Git Bash through hands-on exercises.
+- Worked with branches, commits, and file modifications.
+- Improved my understanding of Git workflows by practicing in a real project.
+- Completed the Learn Git & GitHub test by Technology Channel.
+- Earned the course certificate with a 100/100 score.
+
+Today's practice helped reinforce my Git fundamentals through both practical work and assessment.
 More updates coming soon... 🚀
