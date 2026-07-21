@@ -887,4 +887,8 @@ Today's Activities
 - Earned the course certificate with a 100/100 score.
 
 Today's practice helped reinforce my Git fundamentals through both practical work and assessment.
+
+Day 6
+i reviewed some basic git command.
+
 More updates coming soon... 🚀
