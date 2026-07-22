@@ -891,4 +891,7 @@ Today's practice helped reinforce my Git fundamentals through both practical wor
 Day 6
 i reviewed some basic git command.
 
+Day 7 
+rest.
+
 More updates coming soon... 🚀
