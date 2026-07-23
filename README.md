@@ -894,4 +894,19 @@ i reviewed some basic git command.
 Day 7 
 rest.
 
+
+Day 8
+
+Today I focused on practicing Git branching and merging.
+What I practiced
+Created and switched between branches.
+Edited the same file in different branches.
+Performed branch merging.
+Created and resolved a merge conflict manually.
+Learned how Git marks conflicts and how to resolve them.
+Used git merge --abort to understand how to cancel a merge.
+Continued practicing Git Bash file management commands.
+Commands Practiced
+git merge • git merge --abort • git add • git commit • git status • git branch • git switch
+Result: Successfully created, understood, and resolved a merge conflict through hands-on practice.
 More updates coming soon... 🚀
