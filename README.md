@@ -909,4 +909,31 @@ Continued practicing Git Bash file management commands.
 Commands Practiced
 git merge • git merge --abort • git add • git commit • git status • git branch • git switch
 Result: Successfully created, understood, and resolved a merge conflict through hands-on practice.
+
+# Day 9 – Remote Repositories & GitHub
+
+Today I learned how Git works with GitHub using remote repositories.
+
+## Topics Covered
+- Remote Repository
+- Local Repository
+- Remote & origin
+- git remote
+- git remote add origin
+- git remote -v
+- git push
+- git pull
+- git fetch
+- git clone
+
+## Practical Work
+- Created a GitHub repository.
+- Connected my local repository to GitHub.
+- Pushed my local project to GitHub for the first time.
+- Verified the remote connection.
+- Practiced updating files and pushing new commits.
+- Learned the differences between push, pull, fetch, and clone.
+- Used GitHub as a remote backup for my project.
+
+Today's practice helped me understand how local and remote repositories work together and how GitHub fits into a real Git workflow.
 More updates coming soon... 🚀
